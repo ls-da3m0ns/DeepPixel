@@ -5,7 +5,6 @@ Pillow=7.1.1
 scikit-image=0.16.2
 matplotlib=3.2.1
 scipy=1.18.5
-os
 tensorflow
 libsvm
 pickle
